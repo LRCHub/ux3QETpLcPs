@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "IRIS OUT",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-01-06T10:06:43.701040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_IRIS_OUT_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_IRIS_OUT_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "IRIS OUT (Paused)",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_IRIS_OUT_(Paused)_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_IRIS_OUT_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/05_IRIS_OUT_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IRIS OUT (English Cover)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_IRIS_OUT_(English_Cover)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "Song, Trickle",
+      "has_synced": false,
+      "path": "select/07_IRIS_OUT_Song,_Trickle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "Song, Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_IRIS_OUT_Song,_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "Kenshi Yonezu, 259M plays",
+      "has_synced": true,
+      "path": "select/09_IRIS_OUT_Kenshi_Yonezu,_259M_plays.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "IRIS OUT",
+      "artist": "Trickle",
+      "has_synced": false,
+      "path": "select/10_IRIS_OUT_Trickle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IRIS OUT",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_IRIS_OUT_米津玄師.txt"
+    }
+  ]
+}
